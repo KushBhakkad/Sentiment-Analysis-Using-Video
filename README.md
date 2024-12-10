@@ -5,24 +5,35 @@ This project demonstrates real-time sentiment analysis using video input from a 
 **Features**
 
 -Real-time emotion detection using webcam input.
+
 -Accurate face detection with Haar cascades.
+
 -Emotion classification using a pre-trained Keras model.
 
 **Requirements**
+
 -Python 3.7 or later
+
 -Webcam for capturing video input
 
 **Emotion Labels**
 
 The model predicts the following emotions:
+
 -Angry
+
 -Disgust
+
 -Fear
+
 -Happy
+
 -Neutral
+
 -Sad
+
 -Surprise
 
 **Working**
 
-![Happy](https://github.com/user-attachments/assets/f35ac5ad-aca3-4d67-a1e1-e97f874643a2)![Neutral](https://github.com/user-attachments/assets/d3c91a60-a281-40f7-8194-2ccfbfcffecd)![Surprise](https://github.com/user-attachments/assets/3915396a-7984-4115-b3bf-f272e2fc01c5)
+![Happy](https://github.com/user-attachments/assets/764bdbb0-f6bb-4d18-ac2d-d38b35702185)![Neutral](https://github.com/user-attachments/assets/6d464427-8536-4bd4-bc00-b3c77e314a92)![Surprise](https://github.com/user-attachments/assets/99a6813f-0055-4bb2-bd4d-b4408c77ed3f)
