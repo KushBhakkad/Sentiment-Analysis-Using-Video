@@ -8,7 +8,11 @@ This project demonstrates real-time sentiment analysis using video input from a 
 
 -Accurate face detection with Haar cascades.
 
--Emotion classification using a pre-trained Keras model.
+-Emotion classification using a trained Keras model.
+
+**Dataset**
+
+Facial Expression Recognition(FER)-2013 Dataset.
 
 **Requirements**
 
