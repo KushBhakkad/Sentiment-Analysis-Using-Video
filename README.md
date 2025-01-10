@@ -40,4 +40,4 @@ The model predicts the following emotions:
 
 **Working**
 
-![Happy](https://github.com/user-attachments/assets/764bdbb0-f6bb-4d18-ac2d-d38b35702185)![Neutral](https://github.com/user-attachments/assets/6d464427-8536-4bd4-bc00-b3c77e314a92)![Surprise](https://github.com/user-attachments/assets/99a6813f-0055-4bb2-bd4d-b4408c77ed3f)
+![Happy](https://github.com/user-attachments/assets/764bdbb0-f6bb-4d18-ac2d-d38b35702185)![Neutral](https://github.com/user-attachments/assets/6d464427-8536-4bd4-bc00-b3c77e314a92)
